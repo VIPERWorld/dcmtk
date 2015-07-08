@@ -5,8 +5,6 @@
 #define JP2_CFMT 1
 #define JPT_CFMT 2
 
-#include <cstring>
-#include <cstdlib>
 
 typedef struct decode_info
 {
